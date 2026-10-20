@@ -1,1 +1,3 @@
-# Recruit-Me-Pls
+1)Name : Kaushik Kanniah S 
+2) I love cybersecurity - it is one subject that I've been interested more than any other I've come through. I wanted to learn and explore the topics of cybersecurity and the events occurring daily. I try to better understand the things so I want to learn. Hence I see the WhiteHats club as a door to pursue my interest. Especially, I want to participate in the technical events (CTFs). I m confident that I could learn a lot of things from the club than in my course.
+3) The Hugging face incident at open AI - How a sandboxed model found a way to connect to the internet and other agents(how it broke rules so that it could complete its job), and how it is a warning in training models.
